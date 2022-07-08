@@ -1,5 +1,5 @@
 # Programação orientada a objetos
-Projeto elaborado a partir da disciplina de programação orientada a objetos, tendo como principais objetivos compreender
+>Projeto elaborado a partir da disciplina de programação orientada a objetos, tendo como principais objetivos compreender
 os conceitos de POO e sua importância no desenvolvimento de software
 # Conceitos básicos aprendidos na disciplina
 - Objeto
