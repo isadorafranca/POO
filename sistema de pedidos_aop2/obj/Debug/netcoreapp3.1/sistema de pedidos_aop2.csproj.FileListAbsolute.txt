@@ -1,0 +1,26 @@
+C:\Users\maria\source\repos\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.exe
+C:\Users\maria\source\repos\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.deps.json
+C:\Users\maria\source\repos\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.runtimeconfig.json
+C:\Users\maria\source\repos\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.runtimeconfig.dev.json
+C:\Users\maria\source\repos\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.dll
+C:\Users\maria\source\repos\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.pdb
+C:\Users\maria\source\repos\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.AssemblyInfo.cs
+C:\Users\maria\source\repos\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.dll
+C:\Users\maria\source\repos\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.pdb
+C:\Users\maria\source\repos\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.genruntimeconfig.cache
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.exe
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.deps.json
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.runtimeconfig.json
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.runtimeconfig.dev.json
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.dll
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\bin\Debug\netcoreapp3.1\sistema de pedidos_aop2.pdb
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.csprojAssemblyReference.cache
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.AssemblyInfo.cs
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.dll
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.pdb
+C:\Users\Win10\Documents\Análise e Desenvolvimento de Sistemas\aulas\POO\AOP2\sistema de pedidos_aop2\obj\Debug\netcoreapp3.1\sistema de pedidos_aop2.genruntimeconfig.cache
